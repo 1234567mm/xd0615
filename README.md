@@ -9,4 +9,5 @@
 6：结束编辑就用esc+:wq  
 7:cat readme.md 查看更新内容  
 8:完成后输入git add README.md保存所有修改，同时git commit -m "本次跟新描述"  
-9:git push推送更新内容到服务器
+9:git push推送更新内容到服务器  
+10:指令参考网址：https://blog.csdn.net/weelyy/article/details/82823798
